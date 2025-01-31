@@ -1,5 +1,7 @@
 # React Basics
 
+https://hugo0o3.github.io/first_React/first_React/index.html
+
 - Repository: `react-basics`
 - Mode: `solo`
 - Type of Challenge: `learning`
